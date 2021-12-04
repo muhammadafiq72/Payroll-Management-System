@@ -1,12 +1,18 @@
 # Payroll-Management-System
 
 a. Group F 
+
 b. Group Member Details (Name & Matric No).
-Muhammad Afiq Bin Munir (1818931)-leader
-Nur Ain Binti Ishak (1810052)
-Nurul Jannah Binti Hussain (1811252)
-Nurul Ain Syamina binti Noorafandi (1814584)
-Iman Nurzawani Binti Osman (1814246)
+
+1. Muhammad Afiq Bin Munir (1818931)-leader
+
+2. Nur Ain Binti Ishak (1810052)
+
+3. Nurul Jannah Binti Hussain (1811252)
+
+4. Nurul Ain Syamina binti Noorafandi (1814584)
+
+5. Iman Nurzawani Binti Osman (1814246)
 
 c. The assigned tasks for each group member.
 Build a simple table component in React Native which consists of 7 columns and 6 rows. Inside the state, we declared the tableHead, tableName and tableData. For the render() method part, we set the table view and add custom styling classes to style the table. (Nur Ain Binti Ishak (1810052))
