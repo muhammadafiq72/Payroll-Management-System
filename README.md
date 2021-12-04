@@ -1,10 +1,10 @@
 # Payroll-Management-System
 
-a. Group F hello
+a. Group F 
 b. Group Member Details (Name & Matric No).
+Muhammad Afiq Bin Munir (1818931)-leader
 Nur Ain Binti Ishak (1810052)
 Nurul Jannah Binti Hussain (1811252)
-Muhammad Afiq Bin Munir (1818931)
 Nurul Ain Syamina binti Noorafandi (1814584)
 Iman Nurzawani Binti Osman (1814246)
 
