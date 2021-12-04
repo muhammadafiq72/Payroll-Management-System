@@ -27,5 +27,3 @@ step 3: Next, we can get the EPF and net salary by simply clicking the ‘Calcul
 step 4: Insert the EPF amount under the ‘Deduct’ column and net salary under the ‘Net Salary’ column of the employee.
 step 5: Repeat steps 1-4 for all the other rows and once all the cells in the table are filled in, it is complete.
 
-
-hIII
